@@ -1,5 +1,13 @@
 # Javito-Sublimaciones
 
+#### `Intregrantes`:
+```
+- Nayla Bechara
+- María Eva Medina Balderrama
+- Gerónimo Riesco
+
+```
+
 `DOM`
 - https://getbootstrap.com/
 - addEventListener
