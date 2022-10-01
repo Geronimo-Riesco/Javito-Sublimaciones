@@ -1,7 +1,5 @@
 # Javito-Sublimaciones
 
-# CarritoCompras-VainillaJS
-
 `DOM`
 - https://getbootstrap.com/
 - addEventListener
