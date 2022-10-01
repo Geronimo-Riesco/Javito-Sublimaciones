@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  background: #eee;
+}
+
+.nav-var {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  margin: 40px 0;
+}
+
+.nav-brand {
+  width: 100px;
+  border-radius: 100px;
+}
+
+.titulo-navbar {
+  padding-top: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* -------------------------------------- MOVÍL RESPONSIVE 400px -------------------------------------- */
+@media (max-width: 400px) {
+  .titulo-navbar {
+    display: none;
+  }
+  .nav-brand {
+    width: 120px;
+  }
+}
