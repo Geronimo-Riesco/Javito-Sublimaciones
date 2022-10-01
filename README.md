@@ -5,7 +5,6 @@
 - Nayla Bechara
 - María Eva Medina Balderrama
 - Gerónimo Riesco
-
 ```
 
 `DOM`
