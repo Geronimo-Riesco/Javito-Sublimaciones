@@ -1,0 +1,56 @@
+[
+  {
+    "precio": 500,
+    "id": 1,
+    "title": "Tazas",
+    "thumbnailUrl": "./img/Tazas/Taza8.jpg"
+  },
+  {
+    "precio": 1200,
+    "id": 2,
+    "title": "Vasos térmicos",
+    "thumbnailUrl": "./img/Tazas/Taza6.jpg"
+  },
+  {
+    "precio": 200,
+    "id": 3,
+    "title": "Chops",
+    "thumbnailUrl": "./img/Tazas/Taza4.jpg"
+  },
+  {
+    "precio": 150,
+    "id": 4,
+    "title": "Mate listo",
+    "thumbnailUrl": "./img/Tazas/Taza2.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 5,
+    "title": "Gorras",
+    "thumbnailUrl": "./img/Tazas/Taza3.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 6,
+    "title": "Remeras",
+    "thumbnailUrl": "./img/Tazas/Taza1.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 7,
+    "title": "Buzos",
+    "thumbnailUrl": "./img/Tazas/Taza2.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 8,
+    "title": "Camperas",
+    "thumbnailUrl": "./img/Tazas/Taza2.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 9,
+    "title": "Almohadone",
+    "thumbnailUrl": "./img/Tazas/Taza2.jpg"
+  }
+]
