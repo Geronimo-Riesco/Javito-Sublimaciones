@@ -16,8 +16,7 @@
 - delete
 
 #### `DESKTOP`
-
-![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/83089714/193419940-623164d0-dcd7-4f35-868e-3ec4e408c4ca.png)
+![127 0 0 1_5500_](https://user-images.githubusercontent.com/83089714/193965192-bf006162-b3e1-4bc6-a923-f32d18a82c87.png)
 
 #### `MOBILE`
 
