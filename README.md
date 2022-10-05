@@ -7,7 +7,7 @@
 - Gerónimo Riesco
 ```
 
-#### `DOM`
+#### `DOM`:
 
 ```
 - https://getbootstrap.com/
