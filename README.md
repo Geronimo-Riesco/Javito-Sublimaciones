@@ -8,12 +8,15 @@
 ```
 
 #### `DOM`
+
+```
 - https://getbootstrap.com/
 - addEventListener
 - Array.prototype.reduce()
 - Events/DOMContentLoaded
 - Object.values().reduce()
 - delete
+```
 
 #### `DESKTOP`
 ![127 0 0 1_5500_](https://user-images.githubusercontent.com/83089714/193965192-bf006162-b3e1-4bc6-a923-f32d18a82c87.png)
