@@ -1,56 +1,74 @@
 [
   {
-    "precio": 1200,
+    "precio": 7000,
+    "id": 1,
+    "title": "Buzo",
+    "thumbnailUrl": "./img/productos/buzos.jpg"
+  },
+  {
+    "precio": 1500,
     "id": 2,
-    "title": "Vasos térmicos",
+    "title": "Jarro térmico",
     "thumbnailUrl": "./img/productos/taza_termica.jpg"
   },
   {
-    "precio": 200,
+    "precio": 2300,
     "id": 3,
     "title": "Chops",
     "thumbnailUrl": "./img/productos/chops.jpg"
   },
   {
-    "precio": 150,
+    "precio": 1500,
     "id": 4,
     "title": "Mate listo",
     "thumbnailUrl": "./img/productos/mate_listo.jpg"
   },
   {
-    "precio": 350,
+    "precio": 1200,
     "id": 5,
-    "title": "Gorras",
+    "title": "Gorra",
     "thumbnailUrl": "./img/productos/gorra.jpg"
   },
   {
-    "precio": 400,
+    "precio": 2100,
     "id": 6,
-    "title": "Remeras",
+    "title": "Remera",
     "thumbnailUrl": "./img/productos/remera.jpg"
   },
   {
-    "precio": 400,
+    "precio": 900,
     "id": 7,
-    "title": "Buzos",
-    "thumbnailUrl": "./img/productos/buzos.jpg"
+    "title": "Body",
+    "thumbnailUrl": "./img/productos/batita.jpg"
   },
   {
-    "precio": 400,
+    "precio": 900,
     "id": 8,
     "title": "Babero",
     "thumbnailUrl": "./img/productos/babero.jpg"
   },
   {
-    "precio": 400,
+    "precio": 1500,
     "id": 9,
-    "title": "Almohada",
+    "title": "Almohadón",
     "thumbnailUrl": "./img/productos/almohada.jpg"
   },
   {
-    "precio": 500,
-    "id": 1,
-    "title": "Batita",
-    "thumbnailUrl": "./img/productos/batita.jpg"
+    "precio": 900,
+    "id": 10,
+    "title": "Taza",
+    "thumbnailUrl": "./img/productos/taza.jpg"
+  },
+  {
+    "precio": 900,
+    "id": 11,
+    "title": "Taza",
+    "thumbnailUrl": "./img/productos/taza2.jpg"
+  },
+  {
+    "precio": 900,
+    "id": 12,
+    "title": "Taza",
+    "thumbnailUrl": "./img/productos/taza3.jpg"
   }
 ]
