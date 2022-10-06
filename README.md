@@ -19,10 +19,10 @@
 ```
 
 #### `DESKTOP`
-![127 0 0 1_5500_](https://user-images.githubusercontent.com/83089714/193965192-bf006162-b3e1-4bc6-a923-f32d18a82c87.png)
+![geronimo-riesco github io_Javito-Sublimaciones_](https://user-images.githubusercontent.com/83089714/194195457-8b976b82-fa82-4a4b-b808-0aa261c5b7cc.png)
 
 #### `MOBILE`
-![127 0 0 1_5500_index html(iPhone SE)](https://user-images.githubusercontent.com/83089714/193966377-136f27ab-9296-497a-8ab3-8b4cc85b8bd6.jpg)
+![geronimo-riesco github io_Javito-Sublimaciones_(iPhone SE)](https://user-images.githubusercontent.com/83089714/194195467-c80c4106-e1d1-457b-b1f5-47e7d9a12f84.jpg)
 
 #### `MERCADO PAGO`
 ![MP](https://user-images.githubusercontent.com/83089714/194186018-dcbd7415-484d-4fa5-a093-5acc9031a1d8.PNG)
