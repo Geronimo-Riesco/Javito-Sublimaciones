@@ -30,6 +30,35 @@ h1 {
   text-align: center;
 }
 
+#confirmar-compra a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  height: 15%;
+  background-color: #fec5d6;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.iconos {
+  width: 50px;
+  height: 50px;
+  color: black;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer h4 {
+  margin-right: 20px;
+  padding: 25px 15px 8px 0px;
+}
 /* -------------------------------------- MOVÍL RESPONSIVE 400px -------------------------------------- */
 @media (max-width: 400px) {
   .titulo-navbar {
