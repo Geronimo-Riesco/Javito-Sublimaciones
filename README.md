@@ -1,4 +1,4 @@
-## Javito Sublimaciones by [DEMO] - Emprendimiento Pescar ❤
+## Javito Sublimaciones
 
 #### `Intregrantes`:
 ```
