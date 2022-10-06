@@ -1,4 +1,4 @@
-## Javito-Sublimaciones
+## Javito Sublimaciones
 
 #### `Intregrantes`:
 ```
