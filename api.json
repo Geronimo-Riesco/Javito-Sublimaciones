@@ -54,21 +54,21 @@
     "thumbnailUrl": "./img/productos/almohada.jpg"
   },
   {
-    "precio": 900,
+    "precio": 1500,
     "id": 10,
-    "title": "Taza",
+    "title": "Taza Sublimación",
     "thumbnailUrl": "./img/productos/taza.jpg"
   },
   {
-    "precio": 900,
+    "precio": 1500,
     "id": 11,
-    "title": "Taza",
+    "title": "Taza Havanna",
     "thumbnailUrl": "./img/productos/taza2.jpg"
   },
   {
-    "precio": 900,
+    "precio": 1500,
     "id": 12,
-    "title": "Taza",
+    "title": "Taza Mágica",
     "thumbnailUrl": "./img/productos/taza3.jpg"
   }
 ]
