@@ -15,6 +15,7 @@
 - Array.prototype.reduce()
 - Events/DOMContentLoaded
 - Object.values().reduce()
+- Fragment
 - delete
 ```
 
